@@ -1,2 +1,3 @@
-# GDSC-ML-Workshop-23
-This repository contains a practical application of machine learning  In Machine Learning Workshop at GDSC
+## GDSC ML Workshop 2023
+
+**This repository I'm documenting my assignment solution during a GDSC machine learning workshop. In addition to the last project**
