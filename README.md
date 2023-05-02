@@ -4,4 +4,5 @@
 
 ![](images/unnamed.png)
 
-## catch my Final project [Building a Simple Machine Learning Model on Breast Cancer Wisconsin (Diagnostic) Data](https://github.com/liliansteven/Breast-Cancer-Diagnosis-KFold-and-RF-with-96-accuracy)
+## You will find my Final project here :-
+[Building a Simple Machine Learning Model on Breast Cancer Wisconsin (Diagnostic) Data](https://github.com/liliansteven/Breast-Cancer-Diagnosis-KFold-and-RF-with-96-accuracy)
